@@ -1,8 +1,8 @@
-2-$ apt update
+$ apt update
 
-3-$ apt upgrade
+$ apt upgrade
 
-4-$ apt install python2
+$ apt install python2
 
 $ apt install python2-dev
 
