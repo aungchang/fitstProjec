@@ -14,7 +14,4 @@ $ python fbbrute.py
 ```
 
 ### Contact me
-Line      : dtl.lily  
-Telegram  : @dtlily  
-Facebook  : cgi.izo  
-Instagram : @dtlily  
+facebook.com
